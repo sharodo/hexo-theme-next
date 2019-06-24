@@ -1,3 +1,8 @@
+<h1 align="center">This repository is no longer maintained! :warning:</h1>
+<h2 align="center">The community-maintained version is here: <a href="https://github.com/theme-next/hexo-theme-next">NexT v6 and v7 :triangular_flag_on_post:</a></h2>
+
+<p align="center">NexT is a high quality elegant <a href="http://hexo.io">Hexo</a> theme. It is crafted from scratch, with love.</p>
+
 <div align="right">Language: :us:
 <a title="Chinese" href="docs/zh-CN/README.md">:cn:</a>
 <a title="Russian" href="docs/ru/README.md">:ru:</a></div>
